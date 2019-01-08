@@ -10,33 +10,27 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
+    "Operations research",
     "Optimization",
     "Mathematical Programming",
-    "Stochastic programming",
-    "Robust optimization",
-    "Operations research"
+    "Stochastic programming and robust optimization"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "PhD in Production Engineering"
+  institution = "Pontifical Catolic University of Rio de Janeiro (Brazil)"
   year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "BSc in Production Engineering"
+  institution = "Pontifical Catolic University of Rio de Janeiro (Brazil)"
   year = 2008
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My research involves the topics of analytics and operations research, in particular predictive/ prescriptive analytics, optimisation, and mathematical programming, applied to supply chain management and production planning. Its main focus is the development of decision support frameworks based on optimisation under uncertainty that can be used for improving decision making in real-world problems. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My research interests are applications of mathematical programming to real-world problems in the areas of *renewable energy production and infrastructure expansion planning*, *healthcare sector*, and *humanitarian logistics*.
