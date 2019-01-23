@@ -1,7 +1,7 @@
 +++
 # Experience widget.
 widget = "experience"  # Do not modify this line!
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 
 title = "Experience"
 subtitle = ""
@@ -43,8 +43,10 @@ date_format = "January 2006"
     title = "Assistant Professor"
     company = "Aalto University"
     company_url = "www.aalto.fi"
-    location = "Helsinki, Finalnd"
+    location = "Helsinki, Finland"
     date_start = "2017-09-01"
     #date_end = "2017-09-01"
-    description = """Assistant Professor of Operations Research """
+    description = """Assistant Professor of Operations Research 
+"""
+
 +++

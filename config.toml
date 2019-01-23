@@ -34,7 +34,7 @@ hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
 
 # Get last modified date for content from Git?
-enableGitInfo = false
+enableGitInfo = true
 
 [outputs]
   home = [ "HTML", "CSS", "RSS", "JSON" ]
@@ -144,7 +144,7 @@ enableGitInfo = false
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
-  math = false
+  math = true
 
   # Highlight.js options
   #   highlight
@@ -208,7 +208,7 @@ enableGitInfo = false
   # Configuration of talk pages.
   [params.talks]
     # Show talk time?
-    time = true
+    time = false
 
   # Configuration of publication pages.
   [params.publications]
@@ -302,21 +302,21 @@ enableGitInfo = false
 [[menu.main]]
   name = "Publications"
   url = "#publications_selected"
-  weight = 2
+  weight = 4
 
 [[menu.main]]
   name = "Posts"
   url = "#posts"
+  weight = 2
+
+[[menu.main]]
+  name = "Research"
+  url = "#research"
   weight = 3
 
 [[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
-
-[[menu.main]]
-  name = "Tutorials"
-  url = "/tutorial/"
+  name = "Teaching"
+  url = "#teaching"
   weight = 5
 
 [[menu.main]]
