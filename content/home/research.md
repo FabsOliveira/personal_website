@@ -15,13 +15,13 @@ weight = 20
 
 +++
 
-# Current research topics
+## Current research topics
 
 ### Energy systems optimisation
 
 ...
 
-### Inventory management using stochastic programming
+### Inventory control using stochastic programming
 
 [![blood_inventory](https://www.abc.net.au/cm/lb/7270186/data/australia-red-cross-processing-facility-5-data.jpg)](https://www.abc.net.au/news/2016-03-23/australian-red-cross-what-happens-to-blood-after-donation/7267878)
 
@@ -45,11 +45,10 @@ Investigating how we can use operations research to ultimately save lives. Chall
 ## Research group
 
 ### Members 
-Juho Andelmin - Doctoral Candidate
 
-Nikita Belyak - Doctoral Candidate
-
-Lucas Condeixa - Doctoral candidate
+* [Juho Andelmin](http://math.aalto.fi/en/people/juho.andelmin) - Doctoral Candidate
+* [Nikita Belyak](http://math.aalto.fi/en/people/nikita.beliak) - Doctoral Candidate
+* [Lucas Condeixa](http://math.aalto.fi/en/people/lucas.condeixa) - Doctoral Candidate
 
 ### Collaborators
 ...

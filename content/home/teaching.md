@@ -16,8 +16,8 @@ weight = 40
 +++
 
 ### 2018
-* [Integer programming](https://mycourses.aalto.fi/course/view.php?id=17931 "Aalto's MyCourses page") (Spring)
 
+* [Integer programming](https://mycourses.aalto.fi/course/view.php?id=17931 "Aalto's MyCourses page") (Spring)
 * [Nonlinear optimisation](https://mycourses.aalto.fi/course/view.php?id=22079 "Aalto's MyCourses page") (Fall)
 
 ### 2019
