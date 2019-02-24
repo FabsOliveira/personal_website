@@ -13,7 +13,8 @@ weight = 5
     "Operations research",
     "Optimisation",
     "Mathematical Programming",
-    "Stochastic programming and robust optimisation"
+    "Stochastic programming and robust optimisation",
+    "Decomposition methods"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -31,6 +32,8 @@ weight = 5
 
 # Biography
 
-My research involves the topics of *prescriptive analytics* and *operations research*, in particular *analytics*, *optimisation*, and *mathematical programming*, applied to *supply chain management* and *production planning*. Its main focus is the development of decision support frameworks based on optimisation under uncertainty that can be used for improving decision making in real-world problems. 
+My research involves the topics of *prescriptive analytics* and **operations research**, in particular **analytics**, **optimisation**, and **mathematical programming**, applied to **supply chain management** and **production planning**.
 
-My research interests are methodological developments and applications of mathematical programming to real-world problems in the areas of *renewable energy production*, *healthcare* and *humanitarian logistics*.
+The main focus of my research is the development of decision support frameworks based on optimisation under uncertainty that can be used for improving decision making in real-world problems.
+
+My research interests are methodological developments and applications of mathematical programming to real-world problems in the areas of **renewable energy production**, **healthcare** and **humanitarian logistics**.
