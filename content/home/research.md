@@ -20,6 +20,7 @@ weight = 20
 ### Energy systems optimisation
 
 Applications of optimisation under uncertainty techniques to represent the evolution of energy systems and devise policy and decision making support to foster the adoption of low-carbon energy production. Some problems include:
+
 * Infrastucture expansion planning under uncertainty
 * Scenario generation and uncertainty representation
 * Efficient methods for market equilibrium problem 
