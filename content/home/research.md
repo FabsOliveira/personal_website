@@ -33,7 +33,7 @@ Combining traditional inventory control theory with the flexibility of stochasti
 * Incorporating aspect such as perishability, leasd times, pooling effects, etc.
 * Development of decomposition methods
 
-### Emergency Response, Humanitarian Logistics and Healthcare Planning
+### Emergency response, humanitarian logistics and healthcare planning
 
 Investigating how we can use operations research to ultimately save lives. Challenges include:
 
@@ -51,3 +51,5 @@ Investigating how we can use operations research to ultimately save lives. Chall
 * [Juho Andelmin](http://math.aalto.fi/en/people/juho.andelmin) - Doctoral Candidate
 * [Nikita Belyak](http://math.aalto.fi/en/people/nikita.beliak) - Doctoral Candidate
 * [Lucas Condeixa](http://math.aalto.fi/en/people/lucas.condeixa) - Doctoral Candidate
+* [Olli Herrala](http://math.aalto.fi/en/people/olli.herrala) - Research Assistant
+* [Lina Reichenberg](http://math.aalto.fi/en/people/lina.reichenberg) - Postdoctoral Researcher
