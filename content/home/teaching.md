@@ -23,3 +23,4 @@ weight = 40
 ### 2019
 
 * [Introduction to optimization](https://mycourses.aalto.fi/course/view.php?id=22049 "Aalto's MyCourses page") (Spring)  
+* [Nonlinear optimisation](https://mycourses.aalto.fi/course/view.php?id=25721 "Aalto's MyCourses page") (Fall)
