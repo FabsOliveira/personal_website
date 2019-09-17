@@ -30,7 +30,6 @@ categories = []
   focal_point = ""
 +++
 
-# Optimisation will take you to the top of the analytics chain
 
 The discipline of mathematical optimisation has recently reached the spotlight in the analytics revolution. This is perhaps in part due to the appeal the term ‘optimisation' and its broader meaning entails, but also due to a somewhat theoretical (if not mystic) nature the discipline has.
 
@@ -39,7 +38,7 @@ In a general sense, the idea is that variables can represent decisions that have
 
 This powerful framework has spread out to many areas. Engineering, economics, statistics, computer science, and management, are just a few that have optimisation as an underpinning discipline. Perhaps one of the most prominent user is a field in the intersection of mathematics, computer science, and statistics named operations research. Under the name of mathematical programming, this paradigm revolutionised the concept of modelling planning problems, in the general sense of the term, to allow the prescription of best course of actions in an optimal sense.
 
-Decision-making support is perhaps the most consolidated use of mathematical programming models in industry, often called optimisation models, but being more recently referred to as prescriptive analytics.The energy sector, the oil industry, and logistics are a few of the fields that I have had experience working with real-real-world applications, but this list is without questioning far more comprehensive.
+Decision-making support is perhaps the most consolidated use of mathematical programming models in industry, often called optimisation models, but being more recently referred to as prescriptive analytics. The energy sector, the oil industry, and logistics are a few of the fields that I have had experience working with real-real-world applications, but this list is without questioning far more comprehensive.
 
 However, optimisation is not only mathematical programming. Perhaps a little less widespread is the underlying role optimisation has in machine learning in a general sense. Key techniques such asdistribution fitting, regression, clustering, classification, and neural networksheavily rely on optimisation methods to learn models from data. In this context, the objective function becomes a measurement of error, the decisions variables become the weights or terms and how expressive they are in the mathematical description of the process (e.g., centres of clusters or how relevant a certain variable is to explain a given result) and constraints can represent logical requirements. Much of the existent optimisation theory known from the realm of mathematical programming is now being reframed to address challenges arising in machine learning applications, which is both exciting and an incredible opportunity to create an impact in business.
 

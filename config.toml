@@ -66,8 +66,8 @@ enableGitInfo = true
   email = "fabricio.oliveira@aalto.fi"
   address = "Otakaari 1 Y219, Aalto University, FI-00760, Finland"
   office_hours = """
-  Wednesday 15:00 to 16:00<br>
-  Otherwise email to book an appointment
+  Thursday 13:00 to 14:00<br>
+  Please email beforehand to book an appointment (firstname.lastname@aalto.fi)
   """
   # phone = "888 888 88 88"
   # skype = "echo123"
